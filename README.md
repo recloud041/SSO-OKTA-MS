@@ -51,7 +51,7 @@ Below is a concise click‑through guide (screenshots removed for brevity):
 9. **Map claims** (`given_name`, `family_name`, `email`) and disable local accounts if you want Okta‑only auth.
 10. Click **Run user flow** to test: you should authenticate via Okta and receive an Azure AD B2C ID token.
 
-## ⚙️ Sample `appsettings.json` Snippet Sample `appsettings.json` Snippet
+## ⚙️ Sample `appsettings.json` Snippet 
 
 ```jsonc
 // Web front‑end
@@ -64,7 +64,7 @@ Below is a concise click‑through guide (screenshots removed for brevity):
   "OktaMetadataAddress": "{0}/{1}/B2C_1_SUSI_Okta/v2.0/.well-known/openid-configuration"
 }
 ```
-Note: I will be posting with Screnshoots soon.
+Note: I will be posting with Screnshoots soon with step by step guide ..
 ---
 
 
